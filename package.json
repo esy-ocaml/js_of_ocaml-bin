@@ -27,6 +27,6 @@
     }
   },
   "dependencies": {
-    "@opam/ocamlfind": "*"
+    "@opam-alpha/ocamlfind": "*"
   }
 }
